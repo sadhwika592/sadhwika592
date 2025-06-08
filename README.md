@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Sadhwika 👋
 
-<!--
-**sadhwika592/sadhwika592** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+❤️ I'm a 23 yr old girl from India 
+🎓 Graduate student in Computer Science @ University of Cincinnati  
+💻 Software Engineer at Bitbyte Solutins 
+🚀 Passionate about full-stack dev, cloud computing & system design  
+🌱 Currently learning Java backend and advanced DSA  
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/sadhwika-rachamalla/) | [GitHub](https://github.com/yourusername) | 📧 sadhwikarachamalla@gmail.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Fun Facts
+- 🌍 I love traveling and blogging
+- 🔥 My life motto: “Build. Learn. Repeat.”
+
